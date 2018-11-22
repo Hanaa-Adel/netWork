@@ -10,5 +10,5 @@ package ass1;
  * @author 1400990
  */
 public class Alter {
-    
+    hello world;
 }
