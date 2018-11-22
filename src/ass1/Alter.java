@@ -11,4 +11,5 @@ package ass1;
  */
 public class Alter {
     hello world;
+    kofta;
 }
